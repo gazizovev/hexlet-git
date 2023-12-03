@@ -2,3 +2,5 @@ test text in new branch "brancha"
 New text in ViM
 123
 123431324
+Another text in my file
+87654321
